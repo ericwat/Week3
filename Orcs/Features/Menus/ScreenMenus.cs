@@ -4,7 +4,6 @@ public static class ScreenMessage
 {
     public static void ShowMessage()
     {
-        
     }
 
     public static void ShowTitle()

@@ -1,5 +1,5 @@
 ﻿namespace Orcs.Stores;
 
-internal class Store
+public class Store
 {
 }
